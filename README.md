@@ -5,7 +5,7 @@
 ## Subtask 3
 Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym polega praca testera w praktyce. Skończyłam właśnie kurs na testera manualnego z dobrekursy.it. Posiadam 8 letnie doświadczenie w dziale zapewnienia jakości w branży spożywczej. Od wyzwania oczekuję, że dowiem się czy ta praca sprawia mi satysfakcję oraz czy mogłabym to robić w celach zarobkowych :wink:
 ## Subtask 4
-* Aplikacja służy do przeglądania dokonań zawodników/ graczy. Można przeglądać ich dokonania, w jakich meczach grali, jakie zdobyli punkty, sprawdzać raporty. 
+* Aplikacja służy do przeglądania dokonań zawodników/ graczy. Można przeglądać ich dane personalne, w jakich meczach grali, jakie zdobyli punkty, sprawdzać raporty. 
 * Funkcje w aplikacji:
   *  pierwszym krokiem jest logowanie do serwisu poprzez podanie loginu oraz hasła, można wybrać "przypomnij hasło";
   * można dodać nowego zawodnika, profil uzupełnić o różne informacje tj. podstawowe: imię, nazwisko, telefon, e-mail, waga, wzrost, data urodzenia, dominująca noga, klub, poziom rozgrywek, główna pozycja, pozycja alternatywna, województwo i osiąginięcia. Można dodać też profil fb oraz link do youtuba;
@@ -24,7 +24,7 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
    * można wpisać ujemne wartości: waga, wzrost, wiek;
    * w rubryce telefon można wpisać litery zamiast cyfr;
    * w wersji polskiej dalej pozostały przyciski po angielsku " submit" oraz "clear";
-   * aby utworzyć raport z meczu, w którym wybrany gracz grał, musi mieć w swoim profilu uzupełnione województwo- chociaż nie jest to dana wymagana oraz nie było o tym wcześniej informacji;
+   * aby utworzyć raport z meczu, w którym wybrany gracz grał, musi mieć w swoim profilu uzupełnione województwo- chociaż nie jest to dana wymagana oraz nie było o tym wcześniej informacji.
    
 ## Subtask 5 
 Jira jest, zespół jest, co dalej? :information_desk_person:
