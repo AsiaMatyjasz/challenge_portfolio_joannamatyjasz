@@ -1,5 +1,5 @@
-# challenge_portfolio_joannamatyjasz
-# Task1
+ challenge_portfolio_joannamatyjasz 
+# Task 1
 ## Subtask 1
 9/10 :sunglasses: 
 ## Subtask 3
@@ -7,6 +7,7 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
 ## Subtask 4
 * Aplikacja służy do przeglądania dokonań zawodników/ graczy. Można przeglądać ich dokonania, w jakich meczach grali, jakie zdobyli punkty, sprawdzać raporty. 
 * Funkcje w aplikacji:
+  *  pierwszym krokiem jest logowanie do serwisu poprzez podanie loginu oraz hasła, można wybrać "przypomnij hasło";
   * można dodać nowego zawodnika, profil uzupełnić o różne informacje tj. podstawowe: imię, nazwisko, telefon, e-mail, waga, wzrost, data urodzenia, dominująca noga, klub, poziom rozgrywek, główna pozycja, pozycja alternatywna, województwo i osiąginięcia. Można dodać też profil fb oraz link do youtuba;
   * w zakładce zawodnicy jest możliwość ściągnięcia listy w formacie csv, wydrukowania listy, wyboru kolumn do wyświetlania oraz filtrowania;
   * w zakładce zawodnicy jest możliwość wyszukania zawodnika poprzez wyszukiwarkę "search";
@@ -17,10 +18,13 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
  * Interfejs aplikacji mógłby być bardziej czytelny. Strona główna jest niewykorzystana, jest dużo pustego pola, logo oraz informacja do czego służy strona nie jest umieszczona w odpowienim miejscu i nie przyciąga uwagi użytkowników. Wszystkie tabele są nieczytelne a ich szerokość nieokreślona, dlatego często się rozciągają w nieskończoność np. wyszukując zawodnika "aaa"- znajdujemy zawodnika o bardzo długim imieniu, więc tabela jest mocno rozciągnięta- bardzo nieczytelna.
  * Cała aplikacja jest nie intuicyjna.
  * Błędy:
+   * podczas operacji przypomnij hasło, po wpisaniu adresu mailowego, którego nie ma w bazie aplikacji- strona wysyła komunikat "wysyłano wiadomość na podany adres e-mail";
    * podczas edycji pozycji zawodnik lub mecz nie działa przycisk "clear";
    * nie ma ograniczeń ilości wpisywanych znaków w poszczególnych rubrykach- problem ze zbyt długimi imionami, nazwiskami oraz nazwami klubów- źle się wyswietlają później tabele;
    * można wpisać ujemne wartości: waga, wzrost, wiek;
    * w rubryce telefon można wpisać litery zamiast cyfr;
    * w wersji polskiej dalej pozostały przyciski po angielsku " submit" oraz "clear";
-## Subtask 4 
+   * aby utworzyć raport z meczu, w którym wybrany gracz grał, musi mieć w swoim profilu uzupełnione województwo- chociaż nie jest to dana wymagana oraz nie było o tym wcześniej informacji;
+   
+## Subtask 5 
 Jira jest, zespół jest, co dalej? :information_desk_person:
