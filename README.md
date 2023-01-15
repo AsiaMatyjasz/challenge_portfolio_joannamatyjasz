@@ -18,7 +18,7 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
  * Interfejs aplikacji mógłby być bardziej czytelny. Strona główna jest niewykorzystana, jest dużo pustego pola, logo oraz informacja do czego służy strona nie jest umieszczona w odpowienim miejscu i nie przyciąga uwagi użytkowników. Wszystkie tabele są nieczytelne a ich szerokość nieokreślona, dlatego często się rozciągają w nieskończoność np. wyszukując zawodnika "aaa"- znajdujemy zawodnika o bardzo długim imieniu, więc tabela jest mocno rozciągnięta- bardzo nieczytelna.
  * Cała aplikacja jest nie intuicyjna.
  * Błędy:
-   * podczas operacji przypomnij hasło, po wpisaniu adresu mailowego, którego nie ma w bazie aplikacji- strona wysyła komunikat "wysyłano wiadomość na podany adres e-mail";
+   * podczas operacji przypomnij hasło, po wpisaniu adresu mailowego, którego nie ma w bazie aplikacji- strona wysyła komunikat "wysyłano wiadomość na podany adres e-mail"- kod błędu 400;
    * podczas edycji pozycji zawodnik lub mecz nie działa przycisk "clear";
    * nie ma ograniczeń ilości wpisywanych znaków w poszczególnych rubrykach- problem ze zbyt długimi imionami, nazwiskami oraz nazwami klubów- źle się wyswietlają później tabele;
    * można wpisać ujemne wartości: waga, wzrost, wiek;
