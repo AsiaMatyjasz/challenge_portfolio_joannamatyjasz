@@ -28,3 +28,13 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
    
 ## Subtask 5 
 Jira jest, zespół jest, co dalej? :information_desk_person:
+
+# Task 2
+## Subtask 1
+[subtask 1](https://docs.google.com/spreadsheets/d/1jssZ19mPhnLEkQjJ5264AYv4nxqdRPZ5/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
+## Subtask 2
+[subtask 2](https://docs.google.com/spreadsheets/d/1cI-SRuJM7iyTg2ph4tk40krZENQ8k5gO/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
+## Subtask 3
+Aby opisać dokładnie jak dana aplikacja ma działać i aby łatwo móc przeprowadzać testy regresji.
+## Subtask 4
+Będzie jutro bo brakło czasu :see_no_evil:
