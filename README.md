@@ -77,3 +77,6 @@ Aplikacja internetowa:
 *	skupia się na przekazie informacji dla osoby odwiedzającej, proste funkcjonalności, zazwyczaj nie wymaga uwierzytelniania personalnego
 *	jedna wersja, która może być obsługiwana przez wszystkie systemy
 
+
+### Subtask 4
+ [Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
