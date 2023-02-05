@@ -42,6 +42,7 @@ Będzie jutro bo brakło czasu :see_no_evil:
 # Task 3
 # Task 4
 ## Subtask 2
+[subtask 1 i 2](https://docs.google.com/spreadsheets/d/1FDgeId1QS5ENXrZeQNMKK7LMUMQ4Rtbc/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
 ## Subtask 3
 #### 1.	Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
