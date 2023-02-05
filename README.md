@@ -38,3 +38,41 @@ Jira jest, zespół jest, co dalej? :information_desk_person:
 Aby opisać dokładnie jak dana aplikacja ma działać i aby łatwo móc przeprowadzać testy regresji.
 ## Subtask 4
 Będzie jutro bo brakło czasu :see_no_evil:
+
+# Task 3
+# Task 4
+## Subtask 2
+## Subtask 3
+#### 1.	Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja jest serwisem ogłoszeniowym, można sprzedawać oraz kupować. Funkcje:
+* przeglądanie ogłoszeń,
+*	dodawanie ogłoszeń,
+*	wyróżnienie ogłoszeń,
+*	wymiana wiadomości,
+*	wysyłanie CV za pośrednictwem formularza w kat. praca,
+*	obserwowanie wybranych ogłoszeń lub wyników wyszukiwania.
+*	system bezpiecznych płatności olx
+
+Można przeglądać w wersji desktopowej w przeglądarce, bezpośrednio przez aplikację pobraną ze sklepu na urządzeniu mobilnym lub przez przeglądarkę internetową na urządzeniu mobilnym.
+
+#### 2.	Kto ma być użytkownikiem końcowym aplikacji?
+Wszyscy użytkownicy, którzy chcą coś sprzedać/ kupić bądź tylko przeglądać ogłoszenia
+
+#### 3.	Czy według Ciebie aplikacja jest user friendly?
+Tak, uważam, że aplikacja jest user friendly. Ma prosty interfejs, jest intuicyjna, wiadomo w co kliknąć aby coś zrobić. Przyciski nawigujące znajdują się na dole aplikacji, wyszukiwarka na górze.
+
+#### 4.	Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+
+Zmiana wyświetlania języka na angielski i ukraiński( ze względu na kategorię dla ukrainy)
+
+#### 5.	Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Aplikacja natywna:
+*	dostęp do sprzętu urządzenia (geolokalizacja, kamera, mikrofon,  kalendarz, powiadomienia push) 
+*	tworzona bezpośrednio pod oprogramowanie android. IOS
+*	do interakcji z użytkownikiem, posiada złożone mechanizmy i funkcje, zazwyczaj wymaga uwierzytelnienia personalnego.
+
+Aplikacja internetowa:
+*	skupia się na przekazie informacji dla osoby odwiedzającej, proste funkcjonalności, zazwyczaj nie wymaga uwierzytelniania personalnego
+*	jedna wersja, która może być obsługiwana przez wszystkie systemy
+
