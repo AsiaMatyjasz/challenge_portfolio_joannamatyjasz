@@ -80,3 +80,7 @@ Aplikacja internetowa:
 
 ## Subtask 4
  [Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
+ 
+![image](https://user-images.githubusercontent.com/122390450/217335479-56619465-fc47-444a-8139-ef7444d77b91.png)
+![image](https://user-images.githubusercontent.com/122390450/217335357-cf03fe48-d0e7-474c-a10b-1c0c07c86ab5.png)
+
