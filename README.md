@@ -86,6 +86,10 @@ Aplikacja internetowa:
 
 
 # Task 5
+## Subtask 1
+SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL
+
+## Subtask 3
 #### 1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![image](https://user-images.githubusercontent.com/122390450/218279093-f51d9810-99b6-4f87-b462-309ed244157e.png)
 
