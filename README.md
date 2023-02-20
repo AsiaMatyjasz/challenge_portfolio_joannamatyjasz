@@ -196,8 +196,16 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 ![image](https://user-images.githubusercontent.com/122390450/220191469-b3105893-3894-4dc3-9335-387cd0707618.png)
 
 #### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+![image](https://user-images.githubusercontent.com/122390450/220191880-743e6a44-8ede-46e1-9134-78c79a5a9c91.png)
+
+![image](https://user-images.githubusercontent.com/122390450/220191849-417b7e77-c308-4891-9e52-a56e2df1d2bd.png)
+
 #### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
+![image](https://user-images.githubusercontent.com/122390450/220192060-243a5e22-144c-4096-a21b-7ad1fe28c06c.png)
+
+![image](https://user-images.githubusercontent.com/122390450/220192016-91e7baec-be3e-4868-8b0a-8e8e4498c0da.png)
 
 
 
