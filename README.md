@@ -207,8 +207,11 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
 ![image](https://user-images.githubusercontent.com/122390450/220192016-91e7baec-be3e-4868-8b0a-8e8e4498c0da.png)
 
+## Subtask 2
 
+![image](https://user-images.githubusercontent.com/122390450/220202096-6fc3361a-d0cf-4c35-93fe-e3b1a1881a63.png)
 
+## Subtask 3
 
 
 
