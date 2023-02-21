@@ -36,10 +36,12 @@ Jira jest, zespół jest, co dalej? :information_desk_person:
 [subtask 2](https://docs.google.com/spreadsheets/d/1cI-SRuJM7iyTg2ph4tk40krZENQ8k5gO/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
 ## Subtask 3
 Aby opisać dokładnie jak dana aplikacja ma działać i aby łatwo móc przeprowadzać testy regresji.
-## Subtask 4
-Będzie jutro bo brakło czasu :see_no_evil:
+
 
 # Task 3
+
+mam nadzieję, że zdążę dodać przed sprawdzeniem całości :see_no_evil:
+
 # Task 4
 ## Subtask 2
 [subtask 1 i 2](https://docs.google.com/spreadsheets/d/1FDgeId1QS5ENXrZeQNMKK7LMUMQ4Rtbc/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
@@ -213,5 +215,5 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
 ## Subtask 3
 
-
+[nowe portfolio](https://github.com/AsiaMatyjasz/portfolio)
 
