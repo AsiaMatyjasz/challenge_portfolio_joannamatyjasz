@@ -29,12 +29,12 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
 ## Subtask 5 stworzenie konta i zespołu w Jirze
 Jira jest, zespół jest, co dalej? :information_desk_person:
 
-# Task 2
-## Subtask 1
+# Task 2 Zadanie: Przypadki testowe (Test cases)
+## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
 [subtask 1](https://docs.google.com/spreadsheets/d/1jssZ19mPhnLEkQjJ5264AYv4nxqdRPZ5/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
-## Subtask 2
+## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
 [subtask 2](https://docs.google.com/spreadsheets/d/1cI-SRuJM7iyTg2ph4tk40krZENQ8k5gO/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
-## Subtask 3
+## Subtask 3 Po co piszemy test case’y?
 Aby opisać dokładnie jak dana aplikacja ma działać i aby łatwo móc przeprowadzać testy regresji.
 
 
@@ -42,8 +42,8 @@ Aby opisać dokładnie jak dana aplikacja ma działać i aby łatwo móc przepro
 
 mam nadzieję, że zdążę dodać przed sprawdzeniem całości :see_no_evil:
 
-# Task 4
-## Subtask 2
+# Task 4 Zadanie: Testowanie aplikacji mobilnych: aplikacja OLX
+## Subtask 2 Testowanie eksploracyjne i raportowanie błędów
 [subtask 1 i 2](https://docs.google.com/spreadsheets/d/1FDgeId1QS5ENXrZeQNMKK7LMUMQ4Rtbc/edit?usp=share_link&ouid=117261196751924266035&rtpof=true&sd=true)
 ## Subtask 3
 #### 1.	Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
@@ -80,14 +80,14 @@ Aplikacja internetowa:
 *	jedna wersja, która może być obsługiwana przez wszystkie systemy
 
 
-## Subtask 4
+## Subtask 4 Testowanie eksploracyjne aplikacji webowej https://swipeto.pl/
  [Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
  
 ![image](https://user-images.githubusercontent.com/122390450/217335479-56619465-fc47-444a-8139-ef7444d77b91.png)
 ![image](https://user-images.githubusercontent.com/122390450/217335357-cf03fe48-d0e7-474c-a10b-1c0c07c86ab5.png)
 
 
-# Task 5
+# Task 5 Zadanie: SQL part 1
 ## Subtask 1
 SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
@@ -143,7 +143,7 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 ![image](https://user-images.githubusercontent.com/122390450/218280784-df359576-9bea-4e7e-beda-5a62e2cc4b17.png)
 
 
-# Task 6
+# Task 6 Zadanie: SQL part 1
 ## Subtask 1
 
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 
@@ -213,7 +213,7 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
 ![image](https://user-images.githubusercontent.com/122390450/220202096-6fc3361a-d0cf-4c35-93fe-e3b1a1881a63.png)
 
-## Subtask 3
+## Subtask 3 Stworzenie nowego porfolio
 
 [nowe portfolio](https://github.com/AsiaMatyjasz/portfolio)
 
