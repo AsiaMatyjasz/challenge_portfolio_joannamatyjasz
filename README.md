@@ -88,10 +88,10 @@ Aplikacja internetowa:
 
 
 # Task 5 Zadanie: SQL part 1
-## Subtask 1
+## Subtask 1  Krótki kurs podstaw SQL, jakich komend się nauczyłam:
 SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
-## Subtask 3
+## Subtask 3  Kilka zadań na rozgrzewkę:
 #### 1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![image](https://user-images.githubusercontent.com/122390450/218279093-f51d9810-99b6-4f87-b462-309ed244157e.png)
 
@@ -144,7 +144,7 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
 
 # Task 6 Zadanie: SQL part 1
-## Subtask 1
+## Subtask 1 Kilka kolejnych zadań:
 
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 
 
@@ -209,7 +209,7 @@ SELECT, FROM, WHERE, ORDER BY, ORDER BY DESC, BETWEEN, IN, OR, IS NULL, LIKE
 
 ![image](https://user-images.githubusercontent.com/122390450/220192016-91e7baec-be3e-4868-8b0a-8e8e4498c0da.png)
 
-## Subtask 2
+## Subtask 2 Test ECRU: http://getistqb.com/
 
 ![image](https://user-images.githubusercontent.com/122390450/220202096-6fc3361a-d0cf-4c35-93fe-e3b1a1881a63.png)
 
