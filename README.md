@@ -1,10 +1,10 @@
  challenge_portfolio_joannamatyjasz 
-# Task 1
-## Subtask 1
+# Task 1 Zadanie: Testy eksploracyjne
+## Subtask 1 kartkóweczka
 9/10 :sunglasses: 
-## Subtask 3
+## Subtask 3 Formatowanie README file w GitHub
 Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym polega praca testera w praktyce. Skończyłam właśnie kurs na testera manualnego z dobrekursy.it. Posiadam 8 letnie doświadczenie w dziale zapewnienia jakości w branży spożywczej. Od wyzwania oczekuję, że dowiem się czy ta praca sprawia mi satysfakcję oraz czy mogłabym to robić w celach zarobkowych :wink:
-## Subtask 4
+## Subtask 4 Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl
 * Aplikacja służy do przeglądania dokonań zawodników/ graczy. Można przeglądać ich dane personalne, w jakich meczach grali, jakie zdobyli punkty, sprawdzać raporty. 
 * Funkcje w aplikacji:
   *  pierwszym krokiem jest logowanie do serwisu poprzez podanie loginu oraz hasła, można wybrać "przypomnij hasło";
@@ -26,7 +26,7 @@ Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym 
    * w wersji polskiej dalej pozostały przyciski po angielsku " submit" oraz "clear";
    * aby utworzyć raport z meczu, w którym wybrany gracz grał, musi mieć w swoim profilu uzupełnione województwo- chociaż nie jest to dana wymagana oraz nie było o tym wcześniej informacji.
    
-## Subtask 5 
+## Subtask 5 stworzenie konta i zespołu w Jirze
 Jira jest, zespół jest, co dalej? :information_desk_person:
 
 # Task 2
