@@ -2,7 +2,7 @@
 # Task 1 Zadanie: Testy eksploracyjne
 ## Subtask 1 kartkóweczka
 9/10 :sunglasses: 
-## Subtask 3 Formatowanie README file w GitHub
+## Subtask 3 Formatowanie README file w GitHub. Zadanie polegało na napisaniu kilku zdań o sobie.
 Hejka! Nazywam się Asia i wzięłam udział w projekcie aby sprawdzić na czym polega praca testera w praktyce. Skończyłam właśnie kurs na testera manualnego z dobrekursy.it. Posiadam 8 letnie doświadczenie w dziale zapewnienia jakości w branży spożywczej. Od wyzwania oczekuję, że dowiem się czy ta praca sprawia mi satysfakcję oraz czy mogłabym to robić w celach zarobkowych :wink:
 ## Subtask 4 Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl
 * Aplikacja służy do przeglądania dokonań zawodników/ graczy. Można przeglądać ich dane personalne, w jakich meczach grali, jakie zdobyli punkty, sprawdzać raporty. 
